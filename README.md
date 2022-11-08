@@ -22,7 +22,7 @@ Implemented options for password details, such as:
 ### Version 1.1
 #### Implemented error handling: 
 * In makePasswordLength() method, user now cannot make a password with less than 4 and more than 22 signs and cannot write letters.
-* Program will not accept empty ArrayList, it will demand a new parameters for password or User can quit program.\
+* Program will not accept empty ArrayList, it will demand a new parameters for password or User can quit program.
 #### Created methods, that got rid of extra useless code for example: choice(), pauseLine()
 
 ## Technologies
