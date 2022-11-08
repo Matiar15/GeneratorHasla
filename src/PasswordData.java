@@ -5,8 +5,3 @@ public class PasswordData {
     final String symbols = "!@#$%^&*()";
     final String numbers = "1234567890";
 }
-
-
-
-
-
